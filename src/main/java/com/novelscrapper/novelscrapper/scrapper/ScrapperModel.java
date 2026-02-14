@@ -9,6 +9,6 @@ public class ScrapperModel {
     @Id
     private String name;
     
-    @URL(protocol = "https")
+//    @URL(protocol = "https")
     private String baseURL;
 }
